@@ -68,10 +68,10 @@
 
 本地服务器筛选(不定时更新)  [节点详情](./sub/info2.md),可自行clone项目,执行localFilter.bat生成
 
-- [本地ss](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/private/ss)
-- [本地ssr](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/private/ssr)
-- [本地v2ray](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/private/v2)
-- [本地trojan](https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/private/tr)
+- [本地ss](https://raw.fastgit.org/hermanb001/SubCrawler/master/sub/share/private/ss)
+- [本地ssr](https://raw.fastgit.org/hermanb001/SubCrawler/master/sub/share/private/ssr)
+- [本地v2ray](https://raw.fastgit.org/hermanb001/SubCrawler/master/sub/share/private/v2)
+- [本地trojan](https://raw.fastgit.org/hermanb001/SubCrawler/master/sub/share/private/tr)
 
 > 如需多个订阅,不同格式,请自行使用[订阅转换](#subCon)进行转换
 
