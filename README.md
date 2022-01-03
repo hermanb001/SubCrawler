@@ -69,9 +69,21 @@
 本地服务器筛选(不定时更新)  [节点详情](./sub/info2.md),可自行clone项目,执行localFilter.bat生成
 
 - [本地ss](https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/ss)
+```
+https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/ss
+```
 - [本地ssr](https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/ssr)
+```
+https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/ssr
+```
 - [本地v2ray](https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/v2)
+```
+https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/v2
+```
 - [本地trojan](https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/tr)
+```
+https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/tr
+```
 
 > 如需多个订阅,不同格式,请自行使用[订阅转换](#subCon)进行转换
 
