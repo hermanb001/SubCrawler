@@ -26,6 +26,25 @@ https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/v2
 https://raw.githubusercontent.com/hermanb001/SubCrawler/main/sub/share/tr
 ```
 
+## 本项目生成Clash订阅
+
+- [本地ss转换](https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fss&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false)
+```
+https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fss&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+- [本地ssr转换](https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fssr&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false)
+```
+https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fssr&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+- [本地v2ray转换](https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fv2&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false)
+```
+https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Fv2&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+- [本地trojan转换](https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Ftr&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false)
+```
+https://suc.bihai.cf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FSubCrawler%2Fmain%2Fsub%2Fshare%2Ftr&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fgtang8%2FNodes%2Fmain%2FCFW-Ruleset.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+
 > 如需多个订阅,不同格式,请自行使用[订阅转换](#subCon)进行转换
 
 ## <span id="top">订阅链接</span>
